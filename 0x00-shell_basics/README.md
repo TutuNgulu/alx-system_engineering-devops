@@ -1,1 +1,1 @@
-my second readme
+script that prints the absolute path of the current working directory
