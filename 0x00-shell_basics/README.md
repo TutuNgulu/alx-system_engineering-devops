@@ -1,1 +1,1 @@
-script that prints the absolute name of the current directory
+Display the content list of your current directory in along format
